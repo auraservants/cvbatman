@@ -1,0 +1,78 @@
+body{
+    font-family: 'Times New Roman';
+}
+
+main{
+    max-width: 1041px;
+    margin: 50px auto; 
+}
+
+header{
+    background-color: #E5E5E5;
+}
+
+header img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 21px;
+}
+
+h1{
+    font-weight: 700;
+    font-style: normal;
+    line-height: 29.64px;
+    letter-spacing: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #005677;
+    background-color: #C4C4C4;
+    padding: 10px;
+}
+
+h2{
+    background-color: #C4C4C4;
+    color: #005677;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 16.94px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    padding: 10px;
+}
+
+span.datos-personales{
+    font-weight: 700;
+    font-style: italic;
+}
+
+
+.lista-formacion-academica, .lista-experiencia-laboral{
+    list-style-type: none;
+}
+
+span.formacion-academica, .experiencia-laboral{
+    font-weight: 700;
+}
+
+footer{
+    background-color: #005677;
+    padding: 10px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+span.text-footer{
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 16.94px;
+    margin-right: 15px;
+}
+
+footer img{
+    margin-right: 15px;
+}
+
